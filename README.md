@@ -11,7 +11,7 @@ I'm very professional that's why I use Linkedin ([https://www.linkedin.com/in/da
 I also have twitter, but I don't recommend it, seriously, it's a mess ([https://twitter.com/david_jralves](https://twitter.com/david_jralves))
 
 
-## 📜 Formation
+## 📜 Education
 
   2015 --- Now: Master's degree in Telecomunications and Information Engineering - University of Minho <img src="https://user-images.githubusercontent.com/49323577/111667248-6d51e200-880c-11eb-9eaf-1588a92b3301.png" width="20">
 
