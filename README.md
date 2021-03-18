@@ -11,8 +11,8 @@ Linkedin: <a href="https://www.linkedin.com/in/davidjralves/">
 </a>
 
 
-Twitter: <a href="https://www.linkedin.com/in/davidjralves/">
-  <img  alt="David Alves Linkedin" width="20px" src="https://twitter.com/david_jralves" />
+Twitter: <a href="https://twitter.com/david_jralves">
+  <img  alt="David Alves Twitter" width="20px" src="https://github.com/davidjralves/davidjralves/blob/main/assets/tt.png" />
 </a>
 
 
