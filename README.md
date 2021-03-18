@@ -6,9 +6,15 @@ I run out of words to describe myself, so here is what I'm doing.
 
 
 ## 📨 Contact
-I'm very professional that's why I use Linkedin ([https://www.linkedin.com/in/davidjralves/](https://www.linkedin.com/in/davidjralves/))
+Linkedin: <a href="https://www.linkedin.com/in/davidjralves/">
+  <img  alt="David Alves Linkedin" width="20px" src="https://github.com/davidjralves/davidjralves/blob/main/assets/linkedin.svg" />
+</a>
 
-I also have twitter, but I don't recommend it, seriously, it's a mess ([https://twitter.com/david_jralves](https://twitter.com/david_jralves))
+
+Twitter: <a href="https://www.linkedin.com/in/davidjralves/">
+  <img  alt="David Alves Linkedin" width="20px" src="https://github.com/davidjralves/davidjralves/blob/main/assets/tt.png" />
+</a>
+
 
 
 ## 📜 Education
