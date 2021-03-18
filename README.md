@@ -24,6 +24,7 @@ Twitter: <a href="https://twitter.com/david_jralves">
 
 ---
   2014 --- 2015: Master's degree in Network and Information Systems Engineering  - University of Porto <img src="https://user-images.githubusercontent.com/49323577/111668783-02090f80-880e-11eb-9e7a-98a3e3b25287.png" width="60">
+  (Drop out at end of the 1st year)
   
 
 
