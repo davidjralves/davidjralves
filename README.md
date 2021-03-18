@@ -2,7 +2,7 @@
 
 I run out of words to describe myself, so here is what I'm doing.
 
-<img src="https://user-images.githubusercontent.com/49323577/111688523-1e637700-8823-11eb-8b88-b81acc9da9ce.gif" width="20"> Now: Developing my Master Thesis about an application to create an online store (huge thing!)
+<img src="https://github.com/davidjralves/davidjralves/blob/main/assets/time.gif" width="20"> Now: Developing my Master Thesis about an application to create an online store (huge thing!)
 
 
 ## 📨 Contact
