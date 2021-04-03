@@ -22,11 +22,7 @@ Twitter: <a href="https://twitter.com/david_jralves">
   2015 --- Now: Master's degree in Telecomunications and Information Engineering - University of Minho <img src="https://user-images.githubusercontent.com/49323577/111667248-6d51e200-880c-11eb-9eaf-1588a92b3301.png" width="20">
 
 
----
-  2014 --- 2015: Master's degree in Network and Information Systems Engineering  - University of Porto <img src="https://user-images.githubusercontent.com/49323577/111668783-02090f80-880e-11eb-9e7a-98a3e3b25287.png" width="60">
-  
-  (Drop out at the end of the 1st year)
-  
+
   ---
 
 
