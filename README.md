@@ -1,4 +1,4 @@
-### Hi👋
+###
 
 I run out of words to describe myself, so here is what I'm doing.
 
