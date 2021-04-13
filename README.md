@@ -2,8 +2,7 @@
 
 I run out of words to describe myself, so here is what I'm doing.
 
-<img src="https://github.com/davidjralves/davidjralves/blob/main/assets/time.gif" width="20"> Now: Developing my Master Thesis about an application to create an online store (huge thing!)
-
+<img src="https://github.com/davidjralves/davidjralves/blob/main/assets/time.gif" width="20"> Now:
 
 ## 📨 Contact
 Linkedin: <a href="https://www.linkedin.com/in/davidjralves/">
