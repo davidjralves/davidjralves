@@ -1,7 +1,5 @@
 ###
 
-I run out of words to describe myself, so here is what I'm doing.
-
 <img src="https://github.com/davidjralves/davidjralves/blob/main/assets/time.gif" width="20"> Now:
 
 ## 📨 Contacts
